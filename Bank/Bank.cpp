@@ -404,7 +404,7 @@ void ShowMainMenue() {
 	cout << "[2]Add new Cilent\n";
 	cout << "[3]delete Cilent\n";
 	cout << "[4]updete Cilent info\n";
-	cout << "[]find Cilent \n";
+	cout << "[5]find Cilent \n";
 	cout << "[6]Exit \n";
 	chosefromthelist(readthelist());
 
